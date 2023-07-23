@@ -4,271 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "f2642de54f92a927",
+        "id": "9d68be32c28e8986",
         "type": "tabs",
         "children": [
           {
-            "id": "2c8ec2d5825ccda1",
+            "id": "3c6df63f944aa2a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "4ed7bc60fe0dfc10",
+            "id": "210cd1c59f589998",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1393ad4c32378439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Я дебильный дебил.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a0a7dc9abb94218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Извини фулла нет держи ягодки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7aa8cc8d58d2761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "А вы помните тот крутой момент в ultrakill когда.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5de74d1e49e3dcf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ООО ничего себе! Новые кроссы Настя подарила!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be7b3624c2cc7cdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игорь Гофман про бан Спартака.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61b2984aa1260857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alabama man drives to florida, breaks into home....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ebf353557ebcc4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Райан гослинг в фильме.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "695f4874d41f0fe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Жаль, что далеко не все поймут в чем же дело))).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fedaed0c27831e9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Мы мужики грустно живём.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1437d5a968712f91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab27b056b478e95c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to use.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2a31224ab5aba21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чат ебучего спартака и гофмана.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8034f70c2f842d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "- MY CHILD WILL GO OUTSIDE AND TALK TO WOMEN - gentoo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d769b6f88a427058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "УРААААА! ДАВАЙ ДАВАЙ!! УРААА ДАВАЙ ДАВАЙ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e554f826a33b30b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Five-Six nights at venerolog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "399686f2d452843e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ok Gordon Ramsay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24a14fc0b34ae3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Во мне борятся две личности.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb2cd407ee102ffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "- Блять нахуй мне кирпич - Заебись газеты спиздил.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a4ee2e42eec0998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Девушка, которая мне нравится 7-8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9fec80bd351c5f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "АХАХАХХАХАХ ЕБАТЬ ВОТ ЭТО ЗРЕВЬ НАХУЙ.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#poli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -314,7 +70,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -334,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "АХАХАХХАХАХ ЕБАТЬ ВОТ ЭТО ЗРЕВЬ НАХУЙ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "АХАХАХХАХАХ ЕБАТЬ ВОТ ЭТО ЗРЕВЬ НАХУЙ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "АХАХАХХАХАХ ЕБАТЬ ВОТ ЭТО ЗРЕВЬ НАХУЙ.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -395,39 +148,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9fec80bd351c5f5",
+  "active": "210cd1c59f589998",
   "lastOpenFiles": [
+    "- Женя ты че творишь нахуй  - Это ROFLS.md",
+    "Pasted image 20230721215132.png",
+    "УРААААА! ДАВАЙ ДАВАЙ!! УРААА ДАВАЙ ДАВАЙ.md",
+    "ultrakill bloody white room.md",
+    "Seed.md",
+    "Я дебильный дебил.md",
+    "Извини фулла нет держи ягодки.md",
+    "А вы помните тот крутой момент в ultrakill когда.md",
+    "ООО ничего себе! Новые кроссы Настя подарила!.md",
+    "Игорь Гофман про бан Спартака.md",
+    "Alabama man drives to florida, breaks into home....md",
+    "Райан гослинг в фильме.md",
+    "Жаль, что далеко не все поймут в чем же дело))).md",
+    "Мы мужики грустно живём.md",
+    "How to use.md",
+    "Чат ебучего спартака и гофмана.md",
+    "- MY CHILD WILL GO OUTSIDE AND TALK TO WOMEN - gentoo.md",
+    "Five-Six nights at venerolog.md",
+    "Ok Gordon Ramsay.md",
+    "Во мне борятся две личности.md",
+    "- Блять нахуй мне кирпич - Заебись газеты спиздил.md",
+    "Девушка, которая мне нравится 7-8.md",
     "Untitled.md",
     "АХАХАХХАХАХ ЕБАТЬ ВОТ ЭТО ЗРЕВЬ НАХУЙ.md",
     "photo_2023-07-20_21-29-20.jpg",
-    "Девушка, которая мне нравится 7-8.md",
     "photo_2023-07-20_21-29-19.jpg",
-    "- Блять нахуй мне кирпич - Заебись газеты спиздил.md",
     "photo_2023-07-20_21-29-17.jpg",
-    "Во мне борятся две личности.md",
     "photo_2023-07-20_21-29-16.jpg",
-    "Ok Gordon Ramsay.md",
     "photo_2023-07-20_21-29-09 (2).jpg",
-    "Five-Six nights at venerolog.md",
     "photo_2023-07-20_21-29-09.jpg",
-    "УРААААА! ДАВАЙ ДАВАЙ!! УРААА ДАВАЙ ДАВАЙ.md",
     "photo_2023-07-20_21-29-08.jpg",
-    "- MY CHILD WILL GO OUTSIDE AND TALK TO WOMEN - gentoo.md",
     "photo_2023-07-20_21-29-04.jpg",
-    "Чат ебучего спартака и гофмана.md",
-    "photo_2023-07-20_21-29-03.jpg",
-    "How to use.md",
-    "Seed.md",
-    "ultrakill bloody white room.md",
-    "photo_2023-07-20_20-07-41.jpg",
-    "Мы мужики грустно живём.md",
-    "ООО ничего себе! Новые кроссы Настя подарила!.md",
-    "Извини фулла нет держи ягодки.md",
-    "Игорь Гофман про бан Спартака.md",
-    "Жаль, что далеко не все поймут в чем же дело))).md",
-    "А вы помните тот крутой момент в ultrakill когда.md",
-    "Alabama man drives to florida, breaks into home....md",
-    "Я дебильный дебил.md",
-    "Райан гослинг в фильме.md"
+    "photo_2023-07-20_21-29-03.jpg"
   ]
 }
